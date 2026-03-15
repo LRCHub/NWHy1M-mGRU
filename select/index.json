@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ポケットに魔法を入れて",
+  "base_artist": "秦 基博",
+  "createdAt": "2026-03-15T05:46:14.167575Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ポケットに魔法を入れて",
+      "artist": "秦 基博",
+      "has_synced": true,
+      "path": "select/01_ポケットに魔法を入れて_秦_基博.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ポケットに魔法を入れて",
+      "artist": "秦 基博",
+      "has_synced": false,
+      "path": "select/pl_01_ポケットに魔法を入れて_秦_基博.txt"
+    }
+  ]
+}
